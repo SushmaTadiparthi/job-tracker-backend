@@ -1,4 +1,4 @@
-package com.sushma.job_tracker;
+package com.job_tracker;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

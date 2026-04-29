@@ -1,4 +1,4 @@
-package com.sushma.job_tracker.model;
+package com.job_tracker.model;
 
 import java.time.LocalDateTime;
 import java.util.ArrayList;
