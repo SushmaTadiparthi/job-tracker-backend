@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloController {
 	@GetMapping("/hello")
 	public String hello() {
-		return "Job Tracker API is alive! 🚀 hello";
+		return "Job Tracker API is alive! 🚀 ";
 	}
 }
